@@ -1,0 +1,1 @@
+<small>Please input your NAME, TELPHONE-NUMBER or ROOM-NUMBER to inquire information.</small>
